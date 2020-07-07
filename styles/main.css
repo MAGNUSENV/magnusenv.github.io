@@ -975,6 +975,10 @@ td {
   font-weight: bold;
 }
 
+      .main {
+        max-width: 950px;
+      }
+    
       .post-container .post .post-title {
         text-align: center;
       }
@@ -1005,6 +1009,8 @@ td {
       }
     
       a {
-        color: #66d9e8;
+        color: #99e9f2;
       }
+    
+      body{ background-image: linear-gradient(47deg, #0c1461, #234989, #2980b2, #1bbbdd) }
     
