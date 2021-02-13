@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magnusenv.github.io/</id>
     <title>Spruce Creek</title>
-    <updated>2021-02-13T15:15:32.193Z</updated>
+    <updated>2021-02-13T15:25:01.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magnusenv.github.io/"/>
     <link rel="self" href="https://magnusenv.github.io/atom.xml"/>
@@ -15,8 +15,9 @@
         <link href="https://magnusenv.github.io/post/xin-nian-hao-~wo-jia-de-xiao-ke-ai-hao-hao-kan-ya-~/">
         </link>
         <updated>2021-02-13T14:47:09.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://magnusenv.github.io//post-images/1613227637633.jpg" alt="" loading="lazy"><br>
-<img src="https://magnusenv.github.io//post-images/1613227647402.jpg" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://magnusenv.github.io//post-images/1613227637633.jpg" alt="" loading="lazy"></figure>
+ <img src="D:/My Files/GitHub/Gridea/post-images/1613227637633.jpg" width = "300" height = "200" alt="图片名称" align=center />
+<p><img src="https://magnusenv.github.io//post-images/1613227647402.jpg" alt="" loading="lazy"><br>
 <img src="https://magnusenv.github.io//post-images/1613227663467.jpg" alt="" loading="lazy"><br>
 <img src="https://magnusenv.github.io//post-images/1613227669765.jpg" alt="" loading="lazy"></p>
 ]]></content>
